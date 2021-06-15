@@ -8,4 +8,6 @@
 
 
 
-Report Link: https://docs.google.com/presentation/d/1BE_oPUvydXQZbD_BpAN5jFyUrGTqZIzctYqqp1LZVFQ/edit#slide=id.p
+Report Link: 
+Present Slice: https://docs.google.com/presentation/d/1BE_oPUvydXQZbD_BpAN5jFyUrGTqZIzctYqqp1LZVFQ/edit#slide=id.p
+Doc: https://docs.google.com/document/d/1MFP3asVFppvFFtUU5cB8-MFJE5MuROJi1nVEwmJm1fM/edit?usp=sharing
